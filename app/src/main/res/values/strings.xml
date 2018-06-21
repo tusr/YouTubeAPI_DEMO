@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">YoutubePlay</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="desc">This is a Just a Youtube Video player Demo\n
+                        Using YOUTUBE API.This Application is made \n
+                         just for practice To Contact me please click \n
+                        number or email</string>
+</resources>
